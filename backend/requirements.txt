@@ -1,0 +1,6 @@
+flask
+werkzeug
+pdfplumber
+pillow
+torch
+transformers
