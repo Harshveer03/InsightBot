@@ -5,7 +5,7 @@ Great! Here's the full markdown text for your `README.md` file — ready to be c
 ```markdown
 # 🤖 InsightBot
 
-**InsightBot** is an end-to-end AI-powered Visual Question Answering (VQA) system that allows users to upload a PDF or image file and ask contextual questions about its content. It uses advanced deep learning models like **BLIP** (Bootstrapped Language-Image Pretraining) for image-based Q&A and extracts textual information from PDFs using **pdfplumber**.
+InsightBot is an end-to-end AI-powered Visual Question Answering (VQA) system that allows users to upload a PDF or image file and ask contextual questions about its content. It uses advanced deep learning models like **BLIP** (Bootstrapped Language-Image Pretraining) for image-based Q&A and extracts textual information from PDFS using "pdfplumber".
 
 ---
 
